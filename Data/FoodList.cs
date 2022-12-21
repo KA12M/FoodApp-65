@@ -32,7 +32,7 @@ namespace Data.FoodApp_65
             else if (cost >= 100 && cost <= 199) return "**";
             else if (cost >= 200 && cost <= 299) return "***";
             else if (cost >= 300 && cost <= 399) return "****";
-            else return "****";
+            else return "*****";
         }
 
         public void ShowData()
