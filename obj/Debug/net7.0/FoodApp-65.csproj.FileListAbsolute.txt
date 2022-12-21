@@ -1,0 +1,15 @@
+D:\ProgrammingInTH\FoodApp-65\obj\Debug\net7.0\FoodApp-65.csproj.AssemblyReference.cache
+D:\ProgrammingInTH\FoodApp-65\obj\Debug\net7.0\FoodApp-65.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingInTH\FoodApp-65\obj\Debug\net7.0\FoodApp-65.AssemblyInfoInputs.cache
+D:\ProgrammingInTH\FoodApp-65\obj\Debug\net7.0\FoodApp-65.AssemblyInfo.cs
+D:\ProgrammingInTH\FoodApp-65\obj\Debug\net7.0\FoodApp-65.csproj.CoreCompileInputs.cache
+D:\ProgrammingInTH\FoodApp-65\bin\Debug\net7.0\FoodApp-65.exe
+D:\ProgrammingInTH\FoodApp-65\bin\Debug\net7.0\FoodApp-65.deps.json
+D:\ProgrammingInTH\FoodApp-65\bin\Debug\net7.0\FoodApp-65.runtimeconfig.json
+D:\ProgrammingInTH\FoodApp-65\bin\Debug\net7.0\FoodApp-65.dll
+D:\ProgrammingInTH\FoodApp-65\bin\Debug\net7.0\FoodApp-65.pdb
+D:\ProgrammingInTH\FoodApp-65\obj\Debug\net7.0\FoodApp-65.dll
+D:\ProgrammingInTH\FoodApp-65\obj\Debug\net7.0\refint\FoodApp-65.dll
+D:\ProgrammingInTH\FoodApp-65\obj\Debug\net7.0\FoodApp-65.pdb
+D:\ProgrammingInTH\FoodApp-65\obj\Debug\net7.0\FoodApp-65.genruntimeconfig.cache
+D:\ProgrammingInTH\FoodApp-65\obj\Debug\net7.0\ref\FoodApp-65.dll
