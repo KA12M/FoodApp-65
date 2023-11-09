@@ -1,9 +1,9 @@
 
 using Models.FoodApp_65;
 
-namespace Data.FoodApp_65
-{
-    public class FoodList
+namespace Data.FoodApp_65;
+
+public class FoodList
     {
         public List<Food> Foods = new List<Food>();
         Random rand = new Random();
@@ -64,4 +64,3 @@ namespace Data.FoodApp_65
             }
         }
     }
-}
